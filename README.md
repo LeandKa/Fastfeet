@@ -73,7 +73,7 @@ achado no github projeto sendo feito com ReactJs/Nodejs/React Native/Expo CLi.</
 	:books: Instruções 
 </h1>
 
-	<h1>Após as configurações abaixo veja o arquivo .env examplo para substituir as variaveis</h1>
+	Após as configurações abaixo veja o arquivo .env examplo para substituir as variaveis
 
 <p>Primeiro precisa ser criado dois container no docker um para o servidor Mysql e o um de Redis que sera usado para o servidor de Email com o nodeMailer </p>
 
